@@ -1,6 +1,8 @@
+/*
+This code can be used to calculate the coefficients of the cubic spline interpolation.
+*/
 #include<stdio.h>
 #include<stdlib.h>
-#include<string.h>
 
 struct linked_node{
 	double q;
